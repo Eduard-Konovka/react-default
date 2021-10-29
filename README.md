@@ -36,7 +36,7 @@ You will also see any lint errors in the console.
 
 ### `npm run deploy`
 
-Deploy development files to GitHub.\
+Deploy development files to GitHub.
 
 ### `npm test`
 
