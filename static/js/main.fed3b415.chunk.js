@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-default"]=this["webpackJsonpreact-default"]||[]).push([[0],{11:function(t,e,n){"use strict";n.r(e);var c=n(0),r=n.n(c),o=n(3),a=n.n(o);n(8),n(9);function u(){return"Hello world!"}var i=n(2);a.a.render(Object(i.jsx)(r.a.StrictMode,{children:Object(i.jsx)(u,{})}),document.getElementById("root"))},8:function(t,e,n){},9:function(t,e,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.fed3b415.chunk.js.map
