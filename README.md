@@ -1,7 +1,8 @@
 # Лайт-сборка Create React App
 
-Базовая сборка Create React App + Prettier + Husky + ESLint + Classnames +
-ShortId + Modern Normalize + deploy gh-pages
+Базовая сборка Create React App + Modern Normalize + Prettier + Husky + ESLint +
+Classnames + ShortId + React Icons + React-Toastify + Axios + deploy GitHub
+Pages
 
 ## Для установки сборки:
 
