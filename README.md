@@ -1,8 +1,8 @@
 # Лайт-сборка Create React App
 
-Базовая сборка Create React App + React Router + Modern Normalize + Prettier +
-Husky + ESLint + Classnames + ShortId + React Icons + React-Toastify +
-react-spinner-loader + Axios + deploy GitHub Pages
+Базовая сборка Create React App + React Router DOM + Modern Normalize +
+Prettier + Husky + ESLint + Classnames + ShortId + React Icons +
+React-Toastify + react-spinner-loader + Axios + deploy GitHub Pages
 
 ## Для установки сборки:
 
